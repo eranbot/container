@@ -1,0 +1,3 @@
+[submodule "example-visualizations"]
+	path = example-visualizations
+	url = git@github.com:githubtraining/example-visualizations.git
