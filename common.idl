@@ -1,0 +1,4 @@
+struct messageType {
+   int count;
+}
+
